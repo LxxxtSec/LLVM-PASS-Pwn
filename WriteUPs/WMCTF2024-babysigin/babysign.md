@@ -1,5 +1,5 @@
 # babysigin
-> 题目地址：
+> 题目地址：https://github.com/LxxxtSec/LLVM-PASS-Pwn/blob/main/challenge/WMCTF2024-babysigin/babysigin.zip
 >
 
 	首先我们拿到手的是`WMCTF.so`文件，IDA打开进行静态分析；
